@@ -1,7 +1,7 @@
 Testing...
 =========
 
-Edited this line here in github. More editing.
+Edited this line here in github. Conflict now?
 
 Testing...
 --------
